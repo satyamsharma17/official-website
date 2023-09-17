@@ -1384,7 +1384,7 @@ img.left {
 }
 
 .section-padding {
-  padding: 120px 0;
+  padding: 120px 40px;
 }
 
 .section-ptb {
@@ -7854,7 +7854,7 @@ body.inter-center {
 }
 
 header.full-height {
-  min-height: 110vh;
+  min-height: 105vh;
   padding: 100px 0 80px;
 }
 
